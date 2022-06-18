@@ -1,0 +1,4 @@
+# C-rpc
+使用Muduo网络库实现的高并发rpc同步调用请求处理。
+其中文件夹muduo-chatserver是基于Muduo网络库的聊天服务器
+文件夹yolov2是基于zynq的yolov2目标检测的部署
